@@ -1,0 +1,13 @@
+notebook
+torch
+numpy
+transformers
+datasets
+wandb
+tqdm
+tiktoken
+matplotlib
+torchvision
+causal-conv1d
+mamba-ssm
+miditok
